@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosephAxon17
-- 👀 I’m interested in Web Development & Cloud
+- 👀 I’m interested in Automation & Cloud
 - 🌱 I’m currently learning Python
 
 
